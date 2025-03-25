@@ -1,2 +1,3 @@
 # CHAlgorithm
-This is the source code for the paper "Distributed Collaborative Task Allocation via Consensus Hungarian Algorithm".
+
+This repository contains the implementation of "Distributed Collaborative Task Allocation via Consensus Hungarian Algorithm". The code will be open-sourced after the paper is accepted.
